@@ -251,7 +251,6 @@ ol {
 }
 
 .search-form__pseudo-checkbox {
-  display: block;
   border: 1px solid #fff;
   width: 19px;
   height: 19px;
