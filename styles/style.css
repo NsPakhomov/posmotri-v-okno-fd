@@ -339,9 +339,9 @@ ol {
 }
 
 .content__card-link:focus {
-  outline: 1px solid #fff;
-  outline-offset: 2px;
-  /* outline: none; */
+  /* outline: 1px solid #fff;
+  outline-offset: 2px; */
+  outline: none;
 }
 
 .ccontent__card-link:focus-visible {
@@ -349,11 +349,11 @@ ol {
   outline-offset: 2px;
 }
 
-/* .content__list-item:focus-visible {
+.content__list-item:focus-visible {
   outline: 1px solid #fff;
   outline-offset: 2px;
 }
 
 .content__list-item:focus {
-  outline: 1px solid #fff;;
-} */
+  outline: none;
+}
